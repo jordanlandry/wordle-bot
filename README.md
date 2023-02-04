@@ -42,8 +42,8 @@ Before downloading the Wordle bot, make sure you have the following
 
 #### Without Git
 
-1. Download bot.zip from the [releases section](https://www.github.com/wordle-bot/releases/tag/v1.0.0)
-2. Extract the contents of bot.zip
+1. Download `Source code.zip` from the [releases section](https://www.github.com/wordle-bot/releases/tag/v1.0.0)
+2. Extract the contents of `Source code.zip`
 3. Run the bot with `python main.py`
 
 ## Troubleshooting
