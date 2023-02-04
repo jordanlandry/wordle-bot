@@ -38,13 +38,13 @@ Before downloading the Wordle bot, make sure you have the following
 
 1. Clone the repository using `git clone https://github.com/jordanlandry/wordle-bot.git`.
 
-2. Run the bot with `python main.py`
+2. Run the bot with `python main.py` alternatively, open main.py *Note you may have to open it twice
 
 #### Without Git
 
-1. Download `Source code.zip` from the [releases section](https://www.github.com/wordle-bot/releases/tag/v1.0.0)
+1. Download `Source code.zip` from the [releases section](https://github.com/jordanlandry/wordle-bot/releases/tag/v1.0.0)
 2. Extract the contents of `Source code.zip`
-3. Run the bot with `python main.py`
+3. Run the bot with `python main.py` alternatively, open main.py *Note you may have to open it twice
 
 ## Troubleshooting
 
